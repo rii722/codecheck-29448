@@ -6,4 +6,4 @@ Ruby
 ## Q2. コードの説明 Code Explanation
 あなたのコードがどのように動作するのか、簡潔に説明してください。
 Write a brief explanation about how your code works here.
-利用者がわかりやすく、使いやすく、早く動作できるように構成する。
+Worldと打ち込んだら"Hello World!"とでる。
