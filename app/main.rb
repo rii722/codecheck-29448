@@ -5,9 +5,9 @@ def main(argv)
   # This is a sample code to use arguments and outputs.
   # Edit and remove this code as you like.
 
-  argv.each_index do |i|
-    v = argv[i]
-    puts "argv[#{i}]: Hello #{v}!"
-  end
-  
+#   argv.each_index do |i|
+#     v = argv[i]
+#     puts "argv[#{i}]: Hello #{v}!"
+#   end
+ puts "outputs 'Hello #{:name}!' when given '#{:name}' as an argument"
 end
