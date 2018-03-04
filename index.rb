@@ -1,6 +1,7 @@
 require './app/main'
 
 main(ARGV)
+  post ={}
   puts "plese type name"
-  text = get.chomp
-  puts "Hello #{text}!"
+  post[:name] = get.chomp
+  puts "Hello #{post[:name]}!"
