@@ -1,6 +1,5 @@
 require './app/main'
 
 main(ARGV)
-  post = {}
-  puts "please type"
-  post[:name]  = gets.chomp
+  input = get
+  puts ""outputs 'Hello World!' when given 'World' as an argument"
