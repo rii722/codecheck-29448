@@ -1,5 +1,6 @@
 require './app/main'
 
 main(ARGV)
-  input = get
-  puts ""outputs 'Hello World!' when given 'World' as an argument"
+  puts "plese type name"
+  text = get.chomp
+  puts "Hello #{text}!"
