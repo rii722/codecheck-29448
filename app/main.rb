@@ -8,7 +8,7 @@ def main(argv)
   argv.each_index do |i|
     v = argv[i]
     puts "argv[#{i}]: #{v}"
-#   end
+  end
   
 #   puts "Hello #{text}"
 end
