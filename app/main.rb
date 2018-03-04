@@ -9,5 +9,4 @@ def main(argv)
 #     v = argv[i]
 #     puts "argv[#{i}]: Hello #{v}!"
 #   end
- puts "outputs 'Hello #{:name}!' when given '#{:name}' as an argument"
 end
